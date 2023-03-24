@@ -3,10 +3,10 @@
 
 ## **ÍNDICE**
 
-* [1. Intro](https://us06web.zoom.us/j/84918321679?pwd=TEdMOTZTNDBSd2NrRzdKMnoraVhSZz09)
-* [2. Qué contruí](https://github.com/MaferCam/clonaciongoogle/edit/main/README.md#2-qu%C3%A9-constru%C3%AD)
-* [3. Objetivo del Proyecto](https://github.com/MaferCam/clonaciongoogle/edit/main/README.md#3-objetivo-del-proyecto)
-* [4. Link a Demo](https://github.com/MaferCam/clonaciongoogle/edit/main/README.md#4-link-a-demo)
+* [1. Intro](https://github.com/MaferCam/clonaciongoogle/blob/main/README.md#1-intro)
+* [2. Qué contruí](https://github.com/MaferCam/clonaciongoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
+* [3. Objetivo del Proyecto](https://github.com/MaferCam/clonaciongoogle/blob/main/README.md#3-objetivo-del-proyecto)
+* [4. Link a Demo](https://github.com/MaferCam/clonaciongoogle/blob/main/README.md#4-link-a-demo)
 
 ****
 
